@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36083'
     url: http://www.gutenberg.org/2009/agents/36083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25094#Daughters-of-Doom
 gutenberg_issued: '2008-04-18'
 gutenberg_type: Text
 identifiers:
